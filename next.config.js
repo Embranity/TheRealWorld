@@ -6,7 +6,7 @@ const nextConfig = {
     return [
       {
         source: '/',
-        destination: 'https://therealworld.ai/?a=h8k77brcqd',
+        destination: 'https://therealworld.ai/?a=h8k77brcqd&gtm=G-H76VESPKHS',
         permanent: true,
       },
     ]
