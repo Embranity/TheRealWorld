@@ -6,7 +6,7 @@ const nextConfig = {
     return [
       {
         source: '/',
-        destination: 'https://hu2.io/?a=h8k77brcqd&gtm=G-9YNLXP1M2C',
+        destination: 'https://therealworld.ai/?a=h8k77brcqd',
         permanent: true,
       },
     ]
